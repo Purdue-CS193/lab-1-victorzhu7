@@ -1,5 +1,5 @@
 
-## Victor Zhu's First CS193 Lab
+### Victor Zhu's First CS193 Lab
 
 **Things I Enjoy About Purdue CS193**
 - the TA's
